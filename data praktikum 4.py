@@ -40,7 +40,8 @@ print("NO   |   NAMA   |   NIM    |  TUGAS   | UTS   |  UAS  |   AKHIR ")
 print("=================================================================")
     
 for a in range(n):
-    print("",a+1, "|" ,nm[a], "|" , nim[a], "|", tugas[a], "|", uts[a], "|", uas[a], "|", akhir[a], "|")
+    print("",a+1, "|" ,nm[a], "|" , nim[a], "|", tugas[a], "|", uts[a], "|", 
+          uas[a], "|", akhir[a], "|")
     
     
         
