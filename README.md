@@ -9,9 +9,9 @@
 
 ![2.png](/gambar4/2.png)
 
-Hasil output pada praktikum4
+Hasil ouput pada praktikum4
 
-![3.png](/gambar4/3.png]
+![3.png](/gambar4/3.png)
 
 
 
@@ -66,9 +66,15 @@ Hasil output pada praktikum4
 
 ### praktikum5
 
+## soal praktikum5
+
+
+
 ![1.png](/gambar5/1.png)
 
 ![2.png](/gambar5/2.png)
+
+Hasil ouput pada praktikum5
 
 ![3.png](/gambar5/3.png)
 
